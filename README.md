@@ -20,3 +20,4 @@ Summary of guidelines:
 * Follow the coding style guide.
 
 This is the first edition.
+Second edition to create the new branch.
